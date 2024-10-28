@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Irena
+$$ 2012-10-22 16:26:37.962 -0400  Irena@NRC-BRI-600-HP
+$$ C:\BRI\irena\data\IE\nmr/CHO_media/25/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.0\prog\mod\edparproc.exe
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

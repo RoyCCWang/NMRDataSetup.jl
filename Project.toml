@@ -1,0 +1,21 @@
+name = "NMRDataSetup"
+uuid = "ebb73dff-5abd-42b1-a10e-869024f50034"
+authors = ["Roy Chih Chung Wang <roy.c.c.wang@proton.me>"]
+version = "0.4.2"
+
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+
+[compat]
+julia = "1.11"
+ForwardDiff = "0.10"
+Optim = "1.9, 2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
